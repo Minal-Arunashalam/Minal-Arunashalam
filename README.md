@@ -1,6 +1,6 @@
-# Hi, I'm Minal. It's great to meet you!
+# hi, I'm Minal. it's great to meet you!
 
-**Engineer | AI/ML | Software Systems**  
+**engineer | AI/ML | software systems**  
 
 I love tackling complex problems—from edge-optimized ML pipelines to autonomous multi-agent systems.
 
@@ -13,7 +13,7 @@ I love tackling complex problems—from edge-optimized ML pipelines to autonomou
 
 ## tech stack
 
-### languages
+_languages_
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -27,7 +27,7 @@ I love tackling complex problems—from edge-optimized ML pipelines to autonomou
 
 ---
 
-### frameworks & libraries
+_frameworks & libraries_
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
@@ -41,7 +41,7 @@ I love tackling complex problems—from edge-optimized ML pipelines to autonomou
 
 ---
 
-### tools & platforms
+_tools & platforms_
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)

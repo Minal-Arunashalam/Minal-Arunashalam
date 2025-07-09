@@ -4,6 +4,9 @@
 
 I love tackling complex problems—from edge-optimized ML pipelines to autonomous multi-agent systems.
 
+[![Email](https://img.shields.io/badge/minal.shalam@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:minal.shalam@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/minal12)
+
 ---
 
 ## Tech Stack
@@ -55,8 +58,3 @@ I love tackling complex problems—from edge-optimized ML pipelines to autonomou
 
 
 ---
-
-## Contact
-
-[![Email](https://img.shields.io/badge/minal.shalam@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:minal.shalam@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/minal12)

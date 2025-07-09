@@ -1,4 +1,4 @@
-# hi, I'm Minal. it's great to meet you!
+## hi, I'm Minal. it's great to meet you!
 
 **engineer | AI/ML | software systems**  
 
@@ -6,12 +6,12 @@ I love tackling complex problems—from edge-optimized ML pipelines to autonomou
 
 ---
 
-## get in touch
+### get in touch
 
 [![Email](https://img.shields.io/badge/minal.shalam@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:minal.shalam@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/minal12)
 
-## tech stack
+### tech stack
 
 #### languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)

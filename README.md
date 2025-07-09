@@ -1,6 +1,6 @@
 ## hi, I'm minal. it's great to meet you!
 
-**engineer • AI/ML • software systems**  
+**ai/ml and software systems engineer**  
 
 I love tackling complex problems—from edge-optimized ML pipelines to autonomous multi-agent systems.
 

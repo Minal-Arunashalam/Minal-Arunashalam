@@ -1,14 +1,21 @@
-# Hi, I'm Minal. It's great to meet you!
+## hi, I'm Minal. it's great to meet you!
 
-**Engineer | AI/ML | Software Systems**  
+**engineer | AI/ML | software systems**  
 
 I love tackling complex problems—from edge-optimized ML pipelines to autonomous multi-agent systems.
 
 ---
 
-## Tech Stack
+### get in touch
 
-### Languages
+[![Email](https://img.shields.io/badge/minal.shalam@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:minal.shalam@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/minal12)
+
+---
+
+### tech stack
+
+#### languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -20,9 +27,7 @@ I love tackling complex problems—from edge-optimized ML pipelines to autonomou
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-000000?style=flat&logo=yaml&logoColor=white)
 
----
-
-### Frameworks & Libraries
+#### frameworks & libraries
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
@@ -34,9 +39,7 @@ I love tackling complex problems—from edge-optimized ML pipelines to autonomou
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat)
 
----
-
-### Tools & Platforms
+#### tools & platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
@@ -53,10 +56,4 @@ I love tackling complex problems—from edge-optimized ML pipelines to autonomou
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
-
 ---
-
-## Contact
-
-[![Email](https://img.shields.io/badge/minal.shalam@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:minal.shalam@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/minal12)

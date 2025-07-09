@@ -49,6 +49,7 @@ I love tackling complex problems—from edge-optimized ML pipelines to autonomou
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat)
 ![Optuna](https://img.shields.io/badge/Optuna-146EB4?style=flat)
+![Ray](https://img.shields.io/badge/Ray-FF9E00?style=flat)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 

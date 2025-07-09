@@ -13,6 +13,8 @@ I love tackling complex problems—from edge-optimized ML pipelines to autonomou
 
 ---
 
+### tech stack
+
 #### languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
@@ -25,8 +27,6 @@ I love tackling complex problems—from edge-optimized ML pipelines to autonomou
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-000000?style=flat&logo=yaml&logoColor=white)
 
----
-
 #### frameworks & libraries
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -38,8 +38,6 @@ I love tackling complex problems—from edge-optimized ML pipelines to autonomou
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat)
-
----
 
 #### tools & platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -57,6 +55,5 @@ I love tackling complex problems—from edge-optimized ML pipelines to autonomou
 ![Ray](https://img.shields.io/badge/Ray-FF9E00?style=flat)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-
 
 ---

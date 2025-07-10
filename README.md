@@ -1,4 +1,4 @@
-## hi, I'm minal. it's great to meet you!
+## hi, I'm minal!
 
 **ai/ml and software systems engineer**
 

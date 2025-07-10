@@ -48,7 +48,6 @@ passionate about designing, building, and maintaining AI/ML models and the softw
 ![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=flat&logo=rancher&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Unix](https://img.shields.io/badge/Unix-FCC624?style=flat&logo=gnu&logoColor=black)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)

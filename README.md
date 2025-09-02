@@ -52,7 +52,6 @@ passionate about designing, building, and maintaining ai/ml models and the softw
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat)
 ![Optuna](https://img.shields.io/badge/Optuna-146EB4?style=flat)
 ![Ray](https://img.shields.io/badge/Ray-FF9E00?style=flat)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)

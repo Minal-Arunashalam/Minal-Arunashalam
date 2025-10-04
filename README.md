@@ -1,10 +1,10 @@
-## hi, great to meet you!
+## Hi, great to meet you!
 
-**i'm minal, an ai/ml and software systems engineer**
+**I'm Minal, an AI/ML and software systems engineer**
 
-i love tackling complex problems—from edge-optimized ml pipelines to autonomous multi-agent systems. 
+I love tackling complex problems—from edge-optimized ML pipelines to autonomous multi-agent systems. 
 
-passionate about designing, building, and maintaining ai/ml models and the software systems that deliver them at scale.
+Passionate about designing, building, and maintaining AI/ML models and the software systems that deliver them at scale.
 
 
 
